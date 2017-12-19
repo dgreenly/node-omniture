@@ -3,13 +3,13 @@
   "description": "Omniture14 API module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clintfenton/node-omniture.git"
+    "url": "git@github.com:TrackingFirst/node-omniture.git"
   },
   "version": "0.4.3",
   "author": {
-    "name": "WZ Creative",
-    "email": "npm@wzcreative.com",
-    "url": "https://github.com/clintfenton"
+    "name": "TrackingFirst",
+    "email": "",
+    "url": "https://trackingfirst.com/"
   },
   "main": "./index",
   "directories": {
