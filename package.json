@@ -3,7 +3,7 @@
   "description": "Omniture14 API module",
   "repository": {
     "type": "git",
-    "url": "git@github.com:TrackingFirst/node-omniture.git"
+    "url": "git@github.com:TrackingFirst/node-omniture.git#develop"
   },
   "version": "0.4.3",
   "author": {
